@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Users\admin\source\repos\test\publish</_PublishTargetUrl>
+    <History>True|2021-05-17T06:34:14.3691762Z;False|2021-05-17T12:03:30.3247290+05:30;False|2021-05-17T12:03:13.5181145+05:30;True|2021-05-17T12:02:16.9022437+05:30;True|2021-05-17T11:52:02.0550591+05:30;True|2021-05-17T11:39:47.6109805+05:30;</History>
+  </PropertyGroup>
+</Project>
